@@ -28,7 +28,6 @@ int main() {
         else
             c[k++]=b[j++];
     }
-
     while(i<n1)
         c[k++]=a[i++];
 
